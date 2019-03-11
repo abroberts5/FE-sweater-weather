@@ -31,8 +31,7 @@ In order to see your application running on production:
 
 5. Under the Github Pages section of Options, select 'master' as your source and click `Save`
 
-Be sure to `npm run build` and commit before each push to master. A few seconds after you push up, you should be able to see your application at <https://your-github-username.github.io/FE-sweater-weather>.
-
+Be sure to `npm run build` and commit before each push to master. A few seconds after you push up, you should be able to see your application at <https://abroberts5.github.io/FE-sweater-weather/>.
 
 ## Built With
 
