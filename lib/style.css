@@ -1,0 +1,8 @@
+html {
+  background: url("https://images.pexels.com/photos/235994/pexels-photo-235994.jpeg?cs=srgb&dl=board-bright-design-235994.jpg&fm=jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+
+h1 {
+  font-family: fantasy;
+}
